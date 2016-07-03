@@ -1,0 +1,1 @@
+$("#ex12c").slider({ id: "slider12c", min: 0, max: 10, range: true, value: [3, 7] });

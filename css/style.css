@@ -1,0 +1,21 @@
+body{
+	padding-top: 50px;
+}
+
+.slider-handle.custom {
+background: transparent none;
+/* You can customize the handle and set a background image */
+}
+
+
+#slider12c .slider-track-high {
+	background: orange;
+}
+
+#slider12c .slider-track-low {
+	background: orange;
+}
+
+#slider12c .slider-selection {
+	background: yellow;
+}
